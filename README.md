@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/lem3alem.png" width="150" alt="Rayen" />
+<img src="https://github.com/RayenChouk.png" width="150" alt="Rayen" />
 
 # Hi 👋, I'm Rayen
 
@@ -63,13 +63,21 @@ Supervised classification pipeline on tabular historical match data, reaching **
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages
-![Languages](https://skillicons.dev/icons?i=py,cpp,js)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
 
 ### 🧠 AI & Machine Learning
-![ML](https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
 
 ### 🌐 Backend, Frontend & Tooling
-![Stack](https://skillicons.dev/icons?i=fastapi,postgres,react,git)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
 
 ---
 
@@ -77,8 +85,3 @@ Supervised classification pipeline on tabular historical match data, reaching **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayen-chouk-2b22313bb/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choukrayen88@gmail.com)
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
